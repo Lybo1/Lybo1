@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I’m Lyubo</h1>
 
 <p align="center">
-💻 Full-stack dev turned • Learning to master systems, networks & AI one packet at a time.
+💻 Full-stack dev • Learning to master systems, networks & AI one packet at a time.
 </p>
 
 ---
