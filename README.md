@@ -52,4 +52,3 @@
 ## 🌟 Featured Project
 
 ### [`api-monitor`](https://github.com/Lybo1/ApiMonitor)
-> ⚙️
